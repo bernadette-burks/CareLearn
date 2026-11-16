@@ -1,0 +1,3 @@
+staff,category,risk,description,chart_status,confirmed
+Demo Nurse B,vital_unit_mismatch,medium,Synthetic temperature and unit appear inconsistent,closed,true
+Demo Nurse B,vital_unit_mismatch,medium,Synthetic temperature and unit appear inconsistent,closed,true

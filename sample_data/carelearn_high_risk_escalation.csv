@@ -1,0 +1,2 @@
+staff,category,risk,description,chart_status,confirmed
+Demo Nurse C,critical_vital_mismatch,high,Synthetic critical vital value requires immediate human review,closed,true
