@@ -12,6 +12,8 @@ Requires Python 3.14.7 or newer. No third-party packages are required.
 
 The app binds to localhost only. Data is held in memory and is discarded when the server stops or Reset is clicked.
 
+<img width="1522" height="688" alt="carelearn" src="https://github.com/user-attachments/assets/fe48e8b6-d54b-4c0d-b3d5-56c4b2114507" />
+
 ## EHR interaction visual demo
 
 The interface uses a single left-side dashboard for scenario controls, events, reasoning, adaptation feedback, and audit history, with a separate video-only panel at right. The dashboard is designed to fit a desktop viewport without page scrolling; narrow screens stack the panels. The header icon is a blue brain with a red heart accent. The right panel includes a silent 20-second looping animation. It shows a clearly synthetic, Epic-style EHR screen with a nurse entering a low-risk misspelling and receiving a quick-tip notification, followed by a separate critical vital-sign example that pauses automation and transitions to a supervisor review screen. Use Pause/Resume or Replay below the animation. The display is a locally drawn UI simulation, not a recording or connection to Epic, and contains only fictional identifiers and values.
